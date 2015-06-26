@@ -1,0 +1,18 @@
+<templateSet group="JavaScript">
+  <template name="fun" value="function $NAME$($PARAM$) {&#10;  $END$&#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="functionName" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="console.log($PARAM$);$END$" description="Create a console.log clause" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="this" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="us" value="'use strict';&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

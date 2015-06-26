@@ -1,0 +1,11 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="breadcrumbsEnabled" value="false" />
+    <option name="tagTreeHighlightingLevelCount" value="4" />
+    <option name="tagTreeHighlightingOpacity" value="20" />
+  </component>
+</application>

@@ -1,9 +1,7 @@
-<scheme name="Brackets" version="141" parent_scheme="Default">
+<scheme name="Brackets" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e0e0ff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f8f8f8" />
@@ -472,34 +470,6 @@
       <value>
         <option name="FOREGROUND" value="9b5656" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="426dc0" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="f38c00" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.REGEXP">
-      <value>
-        <option name="FOREGROUND" value="f38c00" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.STRING">
-      <value>
-        <option name="FOREGROUND" value="f38c00" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">

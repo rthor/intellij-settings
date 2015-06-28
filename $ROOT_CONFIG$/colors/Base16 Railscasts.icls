@@ -489,6 +489,13 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN.BOLD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a4055" />

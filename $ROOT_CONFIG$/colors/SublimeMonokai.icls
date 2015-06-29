@@ -608,9 +608,6 @@
         <option name="FOREGROUND" value="48ff60" />
       </value>
     </option>
-    <option name="EL_BACKGROUND">
-      <value />
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d13534" />
@@ -717,9 +714,6 @@
       <value>
         <option name="FOREGROUND" value="800080" />
       </value>
-    </option>
-    <option name="HAML_RUBY_CODE">
-      <value />
     </option>
     <option name="HAML_RUBY_START">
       <value>
@@ -1125,9 +1119,6 @@
       <value>
         <option name="FOREGROUND" value="fa0000" />
       </value>
-    </option>
-    <option name="LOGCAT_INFO_OUTPUT">
-      <value />
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
@@ -1567,9 +1558,6 @@
         <option name="FOREGROUND" value="9bff" />
       </value>
     </option>
-    <option name="RUBY_BAD_CHARACTER">
-      <value />
-    </option>
     <option name="RUBY_CONSTANT">
       <value>
         <option name="FOREGROUND" value="e6da74" />
@@ -1753,9 +1741,6 @@
       <value>
         <option name="FOREGROUND" value="48ff60" />
       </value>
-    </option>
-    <option name="SASS_VARIABLE">
-      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>

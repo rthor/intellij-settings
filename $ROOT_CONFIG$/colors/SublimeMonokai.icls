@@ -62,9 +62,6 @@
         <option name="FOREGROUND" value="48ff60" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
     <option name="BASH.FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="e6da74" />
@@ -222,6 +219,12 @@
     <option name="COFFEESCRIPT.HEREGEX_ID">
       <value>
         <option name="FOREGROUND" value="48ff60" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
@@ -460,9 +463,6 @@
         <option name="FOREGROUND" value="75715e" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="DEFAULT_COMMA">
-      <value />
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>

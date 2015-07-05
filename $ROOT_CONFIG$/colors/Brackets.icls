@@ -46,9 +46,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
     <option name="Block comment">
       <value>
         <option name="FOREGROUND" value="a2a2a2" />

@@ -53,9 +53,6 @@
         <option name="FOREGROUND" value="da4939" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="bc9458" />

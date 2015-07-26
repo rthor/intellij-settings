@@ -6,6 +6,7 @@
       <mapping ext="jd" type="HTML" />
       <mapping ext="cs" type="HTML" />
       <mapping pattern="tvdb" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="sage" type="Python" />
       <mapping pattern=".ideavimrc" type="SmartyConfig" />
     </extensionMap>

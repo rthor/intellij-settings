@@ -1,16 +1,5 @@
 <application>
   <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
-    <extensionMap>
-      <mapping pattern="*.bash*" type="Bash" />
-      <mapping pattern=".zshrc" type="Bash" />
-      <removed_mapping ext="cs" type="C#" />
-      <mapping ext="jd" type="HTML" />
-      <mapping ext="cs" type="HTML" />
-      <mapping pattern="tvdb" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="sage" type="Python" />
-      <mapping pattern=".ideavimrc" type="SmartyConfig" />
-    </extensionMap>
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
   </component>
 </application>

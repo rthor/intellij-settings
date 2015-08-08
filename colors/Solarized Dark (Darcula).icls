@@ -1095,6 +1095,9 @@
         <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
+    <option name="GQL_ID">
+      <value />
+    </option>
     <option name="GQL_INT_LITERAL">
       <value>
         <option name="FOREGROUND" value="dc322f" />

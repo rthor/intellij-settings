@@ -5,6 +5,7 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta SUBTRACT" />
   </action>
+  <action id="Console.TableResult.Reload" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta MINUS" />
   </action>
@@ -25,6 +26,10 @@
   </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="meta SUBTRACT" />
+  </action>
+  <action id="Replace" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta R" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="control B" second-keystroke="MINUS" />
@@ -50,4 +55,5 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="control B" second-keystroke="D" />
   </action>
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
